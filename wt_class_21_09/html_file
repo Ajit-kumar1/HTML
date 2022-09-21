@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Tech work 21/09</title>
+    <link rel="stylesheet" href="college html/assign_21_09.css">
+    <style>
+        #h{
+            background-color: rgb(60, 236, 60);
+            border: 10px solid rgb(242, 28, 242);
+            padding: 5px;
+            font-family:cursive;
+            text-align: center;
+            border-radius: 20px;
+            color: red;
+
+        }
+        #h2{
+            color: brown;
+            font-family: cursive;
+        }
+        #h3{
+            color: brown;
+            font-family: cursive;
+        }
+        img{
+            margin-left: 70px;
+            border-radius: 15px;
+        }
+        p{
+            margin-left: 70px;
+            font-family: cursive;
+        }
+        button{
+            font-family: cursive;
+        }
+        
+    </style>
+</head>
+<body>
+    <h1 id="h">My home page</h1>
+    <h1 id="h2">Who am I?</h1>
+    <p>Hi! Welcome to my Home Page! My name is michael Buffa. I'm a professor at the University of Nice in France, and I'm also the author of two books.I play electric guitar and loves coding web audio applications </p>
+    <img src="michael.jpg" height="200" width="200">
+    
+    <h1 id="h3">My Hobbies</h1>
+    <p>Music , Movies, Video Games, Travelling, Family .etc.</p>
+    <button>Click me to call a javascript function that will add some content to this document</button>
+
+</body>
+</html>
