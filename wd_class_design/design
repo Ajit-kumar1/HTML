@@ -1,0 +1,42 @@
+
+<!doctype html>
+<html>
+<head>
+<title>My web</title>
+</head>
+<body>
+<h1>My Info</h1>
+<p>My name is <b>Ajit Kumar</b>
+<p> I am <b>Available</b> for hire</p>
+<p>My hour old price was <strike>510</strike> and the new price is $30</p>
+<p>Visit my website form this link <a href="https://www.w3schools.com/">Click Here</a></p>
+<hr></hr>
+<h2>Here is some of my clients</h2>
+<img src="C:\Users\akuma\Downloads\red.jpg" width=50 height=50>
+<img src="C:\Users\akuma\Downloads\blue.png" width=50 height=50>
+<img src="C:\Users\akuma\Downloads\green.png" width=50 height=50>
+<hr></hr>
+<h2>My Skills</h2>
+<p>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<ul>
+<li>Vuejs</li>
+<li>Reactjs</li>
+<li>Angeular</li>
+<ol>
+<li value="4">V4.0</li>
+<li value="4">V5.0</li>
+<li value="4">V6.0</li>
+<li value="4">V7.0</li>
+<li value="4">V8.0</li>
+</ol>
+<li>Svelte</li>
+</ul>
+<li>Python</li>
+</ul>
+
+</body>
+<html>
